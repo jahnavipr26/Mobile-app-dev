@@ -1,4 +1,4 @@
-// resumeData.ts - Resume data for Indranil Saha
+// resumeData.ts - Resume data for Jahnavi
 
 import { ResumeData } from './types';
 
